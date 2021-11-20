@@ -1,0 +1,19 @@
+{
+  "title": "木及简历",
+  "url": "https://help.mujicv.com",
+  "logo": {
+    "light": "/logo-light.png",
+    "dark": "/logo-light.png"
+  },
+  "header": {
+    "logo": true,
+    "title": false
+  },
+  "github": "nan980914/help.mujicv.com",
+  "credits": false,
+  "algolia": {
+    "apiKey": "<API_KEY>",
+    "indexName": "<INDEX_NAME>",
+    "langAttribute": "language"
+  }
+}
