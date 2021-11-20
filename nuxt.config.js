@@ -1,6 +1,7 @@
-import theme from '@nuxt/content-theme-docs'
+import theme from './src/index'
 
 export default theme({
+  title: "木及简历",
   docs: {
     primaryColor: '#51a0f7'
   },

@@ -3,13 +3,13 @@
   "url": "https://help.mujicv.com",
   "logo": {
     "light": "/logo-light.png",
-    "dark": "/logo-light.png"
+    "dark": "/logo-dark.png"
   },
   "header": {
     "logo": true,
     "title": false
   },
-  "github": "nan980914/help.mujicv.com",
+  "github": "nan980914/new.help.muji",
   "credits": false,
   "algolia": {
     "apiKey": "<API_KEY>",
